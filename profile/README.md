@@ -1,6 +1,4 @@
----
-layout: default
----
+# INF-2200 *Computer Architecture and Organization*
 
 ## Administrative information
 

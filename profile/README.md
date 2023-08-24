@@ -32,9 +32,9 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Lecture   	| Date		    | Subject	  | Lecturer | Readings |
 |-------------|-------------|-----------|----------|----------|
-| L1   | 21.08.23 | Introduction | Lars Ailo | Chapter 1  |
-| P1   | 21.08.23 | Precepts 1   | Lars Ailo | -          |
-| L2   | 25.08.23 | Instructions 1 | Lars Ailo | Chapter 2.1-2.10   |
+| L1   | 21.08.23 | [Introduction](https://docs.google.com/presentation/d/1P42TATl1fnBE5vvUFk6Cu8ynnlmhNhiaYv3bjFjNBEU/edit#slide=id.p1) | Lars Ailo | - |
+| P1   | 21.08.23 | [Precepts 1](https://docs.google.com/presentation/d/1T6AUhG6n-Mjw350jJF--T97camFHch9Lccr-5Sib7Qw/edit#slide=id.p1)   | Lars Ailo | - |
+| L2   | 25.08.23 | Introdiction & Instructions 1 | Lars Ailo | Chapter 1 & 2.1-2.10   |
 | L3   | 28.08.23 | Instructions 2 | Lars Ailo  | Chapter 2.11-2.23 |
 | L4   | 04.09.23 | Logic design   | Vi         | Appendix B |
 | L5   | 11.09.23 | Arithmetic for computers & floating point  | Lars Ailo | Chapter 3.1-3.11  |

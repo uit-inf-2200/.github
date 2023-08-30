@@ -13,9 +13,9 @@ The Timeplan for the course is [here](https://timeplan.uit.no/emne_timeplan.php?
 **Staff:**
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (Lecturer, Course responsible)
 * Vi Tran <vi.tran@uit.no> (Lecturer)
-* Øyvind Arne Moen Nohr (Teaching assistant groups 1 and 2)
-* Jørgen Kiil Olsen  (Teaching assistant group 3)
-* Ragnhild Abel Grape (Teaching assistant group 4)
+* Øyvind Arne Moen Nohr (Teaching assistant groups 1 and 2) Room a262
+* Jørgen Kiil Olsen  (Teaching assistant group 3) Room a025
+* Ragnhild Abel Grape (Teaching assistant group 4) Room a029
 
 **Cheating**
 

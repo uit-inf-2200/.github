@@ -38,7 +38,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L3   | 28.08.23 | Instructions continued | Lars Ailo  | Chapter 2.11-2.23 |
 | L4   | 04.09.23 | Logic design   | Vi         | Appendix B |
 | L5   | 11.09.23 | [Arithmetic for computers & floating point](https://docs.google.com/presentation/d/1eo-mdT8Go4qPhTj-mt8Mfg0Ar9kuwy-hfoCnMTT2O6U/edit#slide=id.p1)  | Lars Ailo | Chapter 3.1-3.11  |
-| P2   | 15.09.23 | Precepts 2   | Lars Ailo | -          |
+| P2   | 15.09.23 | [Precepts 2](https://docs.google.com/presentation/d/1HVEcJrchEgUBM6RrPTuOwDxNlCS_mYfSztFS-4LNkfg/edit#slide=id.p1)   | Lars Ailo | -          |
 | L6   | 18.09.23 | [Processor](https://docs.google.com/presentation/d/1oDiF5tN8I2bOCf79YcKom_Ln5ausxB6BPmSwBYbm5Z8/edit)  | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
 | L7   | 22.09.23 | Processor continued  | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
 | P3   | 13.10.23 | Precepts 3   | Vi        | -          |

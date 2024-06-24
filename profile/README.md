@@ -2,7 +2,7 @@
 
 ## Administrative information
 
-Administrative course information is available [here](https://uit.no/utdanning/emner/emne?p_document_id=842290.
+Administrative course information is available [here](https://uit.no/utdanning/emner/emne?p_document_id=842290).
 
 We use the course Discord for discussions and to send important information. You will find the invite link in Canvas.
 
@@ -33,33 +33,34 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 * All lecture slides
 * Mandatory assignments
 
-| Lecture   	| Date		    | Subject	  | Lecturer | Readings |
-|-------------|-------------|-----------|----------|----------|
-| L1   | 21.08.23 | [Introduction](https://docs.google.com/presentation/d/1P42TATl1fnBE5vvUFk6Cu8ynnlmhNhiaYv3bjFjNBEU/edit#slide=id.p1) | Lars Ailo | - |
-| P1   | 21.08.23 | [Precepts 1](https://docs.google.com/presentation/d/1T6AUhG6n-Mjw350jJF--T97camFHch9Lccr-5Sib7Qw/edit#slide=id.p1)   | Lars Ailo | - |
-| L2   | 25.08.23 | Introduction continued & [Instructions](https://docs.google.com/presentation/d/1kmcQsf-HKe05rcu1FJxWXarVW3p8xRZTcQn9NXJQWKE/edit#slide=id.p1) | Lars Ailo | Chapter 1 & 2.1-2.10   |
-| L3   | 28.08.23 | Instructions continued | Lars Ailo  | Chapter 2.11-2.23 |
-| L4   | 04.09.23 | Logic design   | Vi         | Appendix B |
-| L5   | 11.09.23 | [Arithmetic for computers & floating point](https://docs.google.com/presentation/d/1eo-mdT8Go4qPhTj-mt8Mfg0Ar9kuwy-hfoCnMTT2O6U/edit#slide=id.p1)  | Lars Ailo | Chapter 3.1-3.11  |
-| P2   | 15.09.23 | [Precepts 2](https://docs.google.com/presentation/d/1HVEcJrchEgUBM6RrPTuOwDxNlCS_mYfSztFS-4LNkfg/edit#slide=id.p1)   | Lars Ailo | -          |
-| L6   | 18.09.23 | [Processor](https://docs.google.com/presentation/d/1oDiF5tN8I2bOCf79YcKom_Ln5ausxB6BPmSwBYbm5Z8/edit)  | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
-| L7   | 22.09.23 | Processor continued  | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
-| P3   | 13.10.23 | Precepts 3   | Vi        | -          |
-| L8   | 13.10.23 | Memory Hierarchy 1       | Vi         | Chapter 5 |
-| L9   | 20.10.23 | Memory Hierarchy 2       | Vi         | Chapter 5 |
-| L10  | 27.10.23 | Parallel Processors        | Vi         | Chapter 6 |
-| L11  | 03.11.23 | GPUs                       | Vi        | Appendix C |
-| Exam | 27.11.23 | School exam  | -         | Everything |            
+| Lecture | Date     | Subject                                                                                                                                           | Lecturer  | Readings                    |
+| ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
+| L1      | 19.08.24 | [Introduction](https://docs.google.com/presentation/d/1P42TATl1fnBE5vvUFk6Cu8ynnlmhNhiaYv3bjFjNBEU/edit#slide=id.p1)                              | Lars Ailo | -                           |
+| P1      | 19.08.24 | [Precepts 1](https://docs.google.com/presentation/d/1T6AUhG6n-Mjw350jJF--T97camFHch9Lccr-5Sib7Qw/edit#slide=id.p1)                                | Lars Ailo | -                           |
+| L2      | 23.08.24 | Introduction continued & [Instructions](https://docs.google.com/presentation/d/1kmcQsf-HKe05rcu1FJxWXarVW3p8xRZTcQn9NXJQWKE/edit#slide=id.p1)     | Lars Ailo | Chapter 1 & 2.1-2.10        |
+| L3      | 26.08.24 | Instructions continued                                                                                                                            | Lars Ailo | Chapter 2.11-2.23           |
+| L4      | 02.09.24 | Logic design                                                                                                                                      | Vi        | Appendix B                  |
+| L5      | 09.09.24 | [Arithmetic for computers & floating point](https://docs.google.com/presentation/d/1eo-mdT8Go4qPhTj-mt8Mfg0Ar9kuwy-hfoCnMTT2O6U/edit#slide=id.p1) | Lars Ailo | Chapter 3.1-3.11            |
+| P2      | 09.09.24 | [Precepts 2](https://docs.google.com/presentation/d/1HVEcJrchEgUBM6RrPTuOwDxNlCS_mYfSztFS-4LNkfg/edit#slide=id.p1)                                | Lars Ailo | -                           |
+| L6      | 16.09.24 | [Processor](https://docs.google.com/presentation/d/1oDiF5tN8I2bOCf79YcKom_Ln5ausxB6BPmSwBYbm5Z8/edit)                                             | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7    |
+| L7      | 20.09.24 | Processor continued                                                                                                                               | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
+| P3      | 23.09.24 | Memory Hierarchy 1                                                                                                                                | Vi        | -                           |
+| L8      | 07.10.24 | Memory Hierarchy 2                                                                                                                                | Vi        | Chapter 5                   |
+| L9      | 07.10.24 | Precepts 3                                                                                                                                        | Vi        | Chapter 5                   |
+| L10     | 21.10.24 | Parallel Processors                                                                                                                               | Vi        | Chapter 6                   |
+| L11     | 28.10.24 | GPUs & VPUs                                                                                                                                       | Vi        | Appendix C                  |
+| L12     | 01.11.24 | Energy-efficientcomputing                                                                                                                         | -         | Everything                  |
+| Exam    | 27.11.24 | School exam                                                                                                                                       | -         | Everything                  |
 
 ## Mandatory assignments
 
-| Project                   |	Start           | Due             |
-|---------------------------|-----------------|-----------------|
-| Micobenchmark in assembly | 21.08.23, 13:15 | 15.09.23. 12:00 |
-| MIPS Simulator            | 15.09.23, 10:15 | 13.10.23, 10:00 |
-| Cache simulator           | 13.10.23, 10:15 | 10.11.23, 12:00 |
+| Project                   | Start           | Due             |
+| ------------------------- | --------------- | --------------- |
+| Micobenchmark in assembly | 19.08.24, 13:15 | 09.09.24. 10:00 |
+| MIPS Simulator            | 09.09.24, 10:15 | 07.10.24, 10:00 |
+| Cache simulator           | 07.10.24, 10:15 | 04.11.24, 10:00 |
 
-You will receive a GitHub Classroom link to each assignment in Discord. 
+You will receive a GitHub Classroom link to each assignment per email. 
 
 ## Exercises
 

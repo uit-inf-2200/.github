@@ -8,14 +8,18 @@ We use the course Discord for discussions and to send important information. You
 
 The github organization for this course is: [github.com/uit-inf-2200/](https://github.com/uit-inf-2200)
 
-The Timeplan for the course is [here](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module=INF-2200-1#week=33-52)
+The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=INF-2200%2C1&type=course&sem=24h&campus=&hide_old=1)
 
 **Staff:**
 * Lars Ailo Bongo <lars.ailo.bongo@uit.no> (Lecturer, Course responsible)
-* Vi Tran <vi.tran@uit.no> (Lecturer)
-* Øyvind Arne Moen Nohr (Teaching assistant groups 1 and 2) Room a262
-* Jørgen Kiil Olsen  (Teaching assistant group 3) Room a025
-* Ragnhild Abel Grape (Teaching assistant group 4) Room a029
+* Vi Tran <vi.tran@uit.no> (Lecturer, Course responsible)
+* Hoai Phuong Ha <phuong.hoai.ha@uit.no> (Lecturer)
+* Øyvind Arne Moen Nohr (Lecturer)
+* (Teaching assistant) Room 
+* (Teaching assistant) Room
+* (Teaching assistant) Room
+* (Teaching assistant) Room
+* (Teaching assistant) Room 
 
 **Cheating**
 

@@ -11,7 +11,6 @@ The github organization for this course is: [github.com/uit-inf-2200/](https://g
 The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=INF-2200%2C1&type=course&sem=24h&campus=&hide_old=1)
 
 **Staff:**
-* Lars Ailo Bongo <lars.ailo.bongo@uit.no> (Lecturer, Course responsible)
 * Vi Tran <vi.tran@uit.no> (Lecturer, Course responsible)
 * Hoai Phuong Ha <phuong.hoai.ha@uit.no> (Lecturer)
 * Øyvind Arne Moen Nohr (Lecturer)

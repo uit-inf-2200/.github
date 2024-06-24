@@ -35,21 +35,21 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Lecture | Date     | Subject                                                                                                                                           | Lecturer  | Readings                    |
 | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| L1      | 19.08.24 | [Introduction](https://docs.google.com/presentation/d/1P42TATl1fnBE5vvUFk6Cu8ynnlmhNhiaYv3bjFjNBEU/edit#slide=id.p1)                              | Lars Ailo | -                           |
-| P1      | 19.08.24 | [Precepts 1](https://docs.google.com/presentation/d/1T6AUhG6n-Mjw350jJF--T97camFHch9Lccr-5Sib7Qw/edit#slide=id.p1)                                | Lars Ailo | -                           |
-| L2      | 23.08.24 | Introduction continued & [Instructions](https://docs.google.com/presentation/d/1kmcQsf-HKe05rcu1FJxWXarVW3p8xRZTcQn9NXJQWKE/edit#slide=id.p1)     | Lars Ailo | Chapter 1 & 2.1-2.10        |
-| L3      | 26.08.24 | Instructions continued                                                                                                                            | Lars Ailo | Chapter 2.11-2.23           |
+| L1      | 19.08.24 | [Introduction](https://docs.google.com/presentation/d/1P42TATl1fnBE5vvUFk6Cu8ynnlmhNhiaYv3bjFjNBEU/edit#slide=id.p1)                              | Vi | -                           |
+| P1      | 19.08.24 | [Precepts 1](https://docs.google.com/presentation/d/1T6AUhG6n-Mjw350jJF--T97camFHch9Lccr-5Sib7Qw/edit#slide=id.p1)                                | Vi | -                           |
+| L2      | 23.08.24 | Introduction continued & [Instructions](https://docs.google.com/presentation/d/1kmcQsf-HKe05rcu1FJxWXarVW3p8xRZTcQn9NXJQWKE/edit#slide=id.p1)     | Oyvind | Chapter 1 & 2.1-2.10        |
+| L3      | 26.08.24 | Instructions continued                                                                                                                            | Oyvind | Chapter 2.11-2.23           |
 | L4      | 02.09.24 | Logic design                                                                                                                                      | Vi        | Appendix B                  |
-| L5      | 09.09.24 | [Arithmetic for computers & floating point](https://docs.google.com/presentation/d/1eo-mdT8Go4qPhTj-mt8Mfg0Ar9kuwy-hfoCnMTT2O6U/edit#slide=id.p1) | Lars Ailo | Chapter 3.1-3.11            |
-| P2      | 09.09.24 | [Precepts 2](https://docs.google.com/presentation/d/1HVEcJrchEgUBM6RrPTuOwDxNlCS_mYfSztFS-4LNkfg/edit#slide=id.p1)                                | Lars Ailo | -                           |
-| L6      | 16.09.24 | [Processor](https://docs.google.com/presentation/d/1oDiF5tN8I2bOCf79YcKom_Ln5ausxB6BPmSwBYbm5Z8/edit)                                             | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7    |
-| L7      | 20.09.24 | Processor continued                                                                                                                               | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
+| L5      | 09.09.24 | [Arithmetic for computers & floating point](https://docs.google.com/presentation/d/1eo-mdT8Go4qPhTj-mt8Mfg0Ar9kuwy-hfoCnMTT2O6U/edit#slide=id.p1) | Oyvind | Chapter 3.1-3.11            |
+| P2      | 09.09.24 | [Precepts 2](https://docs.google.com/presentation/d/1HVEcJrchEgUBM6RrPTuOwDxNlCS_mYfSztFS-4LNkfg/edit#slide=id.p1)                                | Oyvind | -                           |
+| L6      | 16.09.24 | [Processor](https://docs.google.com/presentation/d/1oDiF5tN8I2bOCf79YcKom_Ln5ausxB6BPmSwBYbm5Z8/edit)                                             | Oyvind | Chapter 4.1-4.4, 4.6-4.7    |
+| L7      | 20.09.24 | Processor continued                                                                                                                               | Oyvind | Chapter 4.8-4.13, 4.15-4.17 |
 | P3      | 23.09.24 | Memory Hierarchy 1                                                                                                                                | Vi        | -                           |
 | L8      | 07.10.24 | Memory Hierarchy 2                                                                                                                                | Vi        | Chapter 5                   |
 | L9      | 07.10.24 | Precepts 3                                                                                                                                        | Vi        | Chapter 5                   |
 | L10     | 21.10.24 | Parallel Processors                                                                                                                               | Vi        | Chapter 6                   |
-| L11     | 28.10.24 | GPUs & VPUs                                                                                                                                       | Vi        | Appendix C                  |
-| L12     | 01.11.24 | Energy-efficientcomputing                                                                                                                         | -         | Everything                  |
+| L11     | 28.10.24 | GPUs & VPUs                                                                                                                                       | Phuong        | Appendix C                  |
+| L12     | 01.11.24 | Energy-efficientcomputing                                                                                                                         | Phuong         | Everything                  |
 | Exam    | 27.11.24 | School exam                                                                                                                                       | -         | Everything                  |
 
 ## Mandatory assignments

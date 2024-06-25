@@ -2,7 +2,7 @@
 
 ## Administrative information
 
-Administrative course information is available [here](https://uit.no/utdanning/emner/emne?p_document_id=842290).
+Administrative course information is available [here](https://uit.no/utdanning/emner/emne/842290/inf-2200).
 
 We use the course Discord for discussions and to send important information. You will find the invite link in Canvas.
 
@@ -22,7 +22,7 @@ The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timepl
 
 **Cheating**
 
-As a student at UiT, you are obliged to familiarize yourself with the current rules that apply to the use of aids during exams, as well as rules for source use and citation. In the case of violation of these rules, you may be suspected of cheating, or attempt at cheating. Cheating on an exam is considered a violation of academic integrity. Academic integrity(honesty) is about being clear in relation to which thoughts/reflection and work are one's own, and which are taken from other's work. Cheating is punishable by cancellation of exams and/or exclusion from university.
+As a student at UiT, you are obliged to familiarize yourself with the current rules that apply to the use of aids during exams, as well as rules for source use and citation. In the case of violation of these rules, you may be suspected of cheating, or attempt at cheating. Cheating on an exam is considered a violation of academic integrity. Academic integrity(honesty) is about being clear in relation to which thoughts/reflection and work are one's own, and which are taken from others. Cheating is punishable by cancellation of exams and/or exclusion from university.
 
 You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art?p_document_id=684332
 
@@ -48,17 +48,17 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L8      | 07.10.24 | Memory Hierarchy 2                                                                                                                                | Vi        | Chapter 5                   |
 | L9      | 07.10.24 | Precepts 3                                                                                                                                        | Vi        | Chapter 5                   |
 | L10     | 21.10.24 | Parallel Processors                                                                                                                               | Vi        | Chapter 6                   |
-| L11     | 28.10.24 | GPUs & VPUs                                                                                                                                       | Phuong        | Appendix C                  |
-| L12     | 01.11.24 | Energy-efficientcomputing                                                                                                                         | Phuong         | Everything                  |
+| L11     | 28.10.24 | GPUs                                                                                                                                              | Phuong        | Appendix C                  |
+| L12     | 01.11.24 | Energy-efficient computing - VPUs                                                                                                                 | Phuong         | Everything                  |
 | Exam    | 27.11.24 | School exam                                                                                                                                       | -         | Everything                  |
 
 ## Mandatory assignments
 
 | Project                   | Start           | Due             |
 | ------------------------- | --------------- | --------------- |
-| Micobenchmark in assembly | 19.08.24, 13:15 | 09.09.24. 10:00 |
-| MIPS Simulator            | 09.09.24, 10:15 | 07.10.24, 10:00 |
-| Cache simulator           | 07.10.24, 10:15 | 04.11.24, 10:00 |
+| Micobenchmark in assembly | 19.08.24, 13:15 | 09.09.24. 12:00 |
+| MIPS Simulator            | 09.09.24, 10:15 | 07.10.24, 12:00 |
+| Cache simulator           | 07.10.24, 10:15 | 04.11.24, 12:00 |
 
 You will receive a GitHub Classroom link to each assignment per email. 
 

@@ -35,7 +35,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Lecture | Date     | Subject                                                                                                                                           | Lecturer  | Readings                    |
 | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| L1      | 19.08.24 | [Introduction]                              | Vi | -                           | Chapter 1
+| L1      | 19.08.24 | [Introduction]                              | Vi | Chapter 1                           | 
 | P1      | 19.08.24 | [Precepts 1]                               | Vi | -                           |
 | L2      | 23.08.24 | [Instructions]  | Oyvind | Chapter 1 & 2.1-2.10        |
 | L3      | 26.08.24 | Instructions continued                                                                                                                            | Oyvind | Chapter 2.11-2.23           |

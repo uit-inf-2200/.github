@@ -11,9 +11,9 @@ The github organization for this course is: [github.com/uit-inf-2200/](https://g
 The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=INF-2200%2C1&type=course&sem=24h&campus=&hide_old=1)
 
 **Staff:**
-* Vi Tran <vi.tran@uit.no> (Lecturer, Course responsible)
-* Hoai Phuong Ha <phuong.hoai.ha@uit.no> (Lecturer)
-* Øyvind Arne Moen Nohr (Lecturer)
+* Vi Ngoc-Nha Tran (VNNT) <vi.tran@uit.no> (Lecturer, Course responsible)
+* Hoai Phuong Ha (PHH) <phuong.hoai.ha@uit.no> (Lecturer)
+* Øyvind Arne Moen Nohr (OAMN) (Lecturer)
 * (Teaching assistant) Room 
 * (Teaching assistant) Room
 * (Teaching assistant) Room
@@ -35,28 +35,28 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Lecture | Date     | Subject                                                                                                                                           | Lecturer  | Readings                    |
 | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| L1      | 19.08.24 | [Introduction]                              | Vi | Chapter 1                           | 
-| P1      | 19.08.24 | [Precepts 1]                               | Vi | -                           |
+| L1      | 19.08.24 | [Introduction]                              | VNNT | Chapter 1                           | 
+| P1      | 19.08.24 | [Precepts 1]                               | VNNT | -                           |
 | L2      | 23.08.24 | [Instructions]  | Oyvind |  2.1-2.10        |
-| L3      | 26.08.24 | Instructions continued                                                                                                                            | Oyvind | Chapter 2.11-2.23           |
-| L4      | 02.09.24 | Logic design                                                                                                                                      | Vi        | Appendix B                  |
-| L5      | 09.09.24 | [Arithmetic for computers & floating point] | Oyvind | Chapter 3.1-3.11            |
-| P2      | 09.09.24 | [Precepts 2]                               | Oyvind | -                           |
-| L6      | 16.09.24 | [Processor]                                         | Oyvind | Chapter 4.1-4.4, 4.6-4.7    |
-| L7      | 20.09.24 | Processor continued                                                                                                                               | Oyvind | Chapter 4.8-4.13, 4.15-4.17 |
-| P3      | 23.09.24 | Memory Hierarchy 1                                                                                                                                | Vi        | -                           |
-| L8      | 07.10.24 | Memory Hierarchy 2                                                                                                                                | Vi        | Chapter 5                   |
-| L9      | 07.10.24 | Precepts 3                                                                                                                                        | Vi        | Chapter 5                   |
-| L10     | 21.10.24 | Parallel Processors                                                                                                                               | Vi        | Chapter 6                   |
-| L11     | 28.10.24 | GPUs                                                                                                                                              | Phuong        | Appendix C                  |
-| L12     | 01.11.24 | Energy-efficient computing - VPUs                                                                                                                 | Phuong         | Slides                  |
+| L3      | 26.08.24 | Instructions continued                                                                                                                            | OAMN | Chapter 2.11-2.23           |
+| L4      | 02.09.24 | Logic design                                                                                                                                      | VNNT        | Appendix B                  |
+| L5      | 09.09.24 | [Arithmetic for computers & floating point] | OAMN | Chapter 3.1-3.11            |
+| P2      | 09.09.24 | [Precepts 2]                               | OAMN | -                           |
+| L6      | 16.09.24 | [Processor]                                         | OAMN | Chapter 4.1-4.4, 4.6-4.7    |
+| L7      | 20.09.24 | Processor continued                                                                                                                               | OAMN | Chapter 4.8-4.13, 4.15-4.17 |
+| P3      | 23.09.24 | Memory Hierarchy 1                                                                                                                                | VNNT        | -                           |
+| L8      | 07.10.24 | Memory Hierarchy 2                                                                                                                                | VNNT        | Chapter 5                   |
+| L9      | 07.10.24 | Precepts 3                                                                                                                                        | VNNT        | Chapter 5                   |
+| L10     | 21.10.24 | Parallel Processors                                                                                                                               | VNNT        | Chapter 6                   |
+| L11     | 28.10.24 | GPUs                                                                                                                                              | PHH        | Appendix C                  |
+| L12     | 01.11.24 | Energy-efficient computing - VPUs                                                                                                                 | PHH         | Slides                  |
 | Exam    | 27.11.24 | School exam                                                                                                                                       | -         | Everything                  |
 
 ## Mandatory assignments
 
 | Project                   | Start           | Due             |
 | ------------------------- | --------------- | --------------- |
-| Micobenchmark in assembly | 19.08.24, 12:15 | 09.09.24. 12:00 |
+| Micobenchmark in assembly | 19.08.24, 12:15 | 09.09.24, 12:00 |
 | MIPS Simulator            | 09.09.24, 12:15 | 07.10.24, 12:00 |
 | Cache simulator           | 07.10.24, 12:15 | 04.11.24, 12:00 |
 

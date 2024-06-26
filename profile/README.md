@@ -37,7 +37,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
 | L1      | 19.08.24 | [Introduction]                              | Vi | Chapter 1                           | 
 | P1      | 19.08.24 | [Precepts 1]                               | Vi | -                           |
-| L2      | 23.08.24 | [Instructions]  | Oyvind | Chapter 1 & 2.1-2.10        |
+| L2      | 23.08.24 | [Instructions]  | Oyvind |  2.1-2.10        |
 | L3      | 26.08.24 | Instructions continued                                                                                                                            | Oyvind | Chapter 2.11-2.23           |
 | L4      | 02.09.24 | Logic design                                                                                                                                      | Vi        | Appendix B                  |
 | L5      | 09.09.24 | [Arithmetic for computers & floating point] | Oyvind | Chapter 3.1-3.11            |

@@ -49,7 +49,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L9      | 07.10.24 | Precepts 3                                                                                                                                        | Vi        | Chapter 5                   |
 | L10     | 21.10.24 | Parallel Processors                                                                                                                               | Vi        | Chapter 6                   |
 | L11     | 28.10.24 | GPUs                                                                                                                                              | Phuong        | Appendix C                  |
-| L12     | 01.11.24 | Energy-efficient computing - VPUs                                                                                                                 | Phuong         | Everything                  |
+| L12     | 01.11.24 | Energy-efficient computing - VPUs                                                                                                                 | Phuong         | Slides                  |
 | Exam    | 27.11.24 | School exam                                                                                                                                       | -         | Everything                  |
 
 ## Mandatory assignments

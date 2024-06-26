@@ -36,12 +36,12 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | Lecture | Date     | Subject                                                                                                                                           | Lecturer  | Readings                    |
 | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
 | L1      | 19.08.24 | [Introduction]                              | Vi | -                           | Chapter 1
-| P1      | 23.08.24 | [Precepts 1]                               | Vi | -                           |
+| P1      | 19.08.24 | [Precepts 1]                               | Vi | -                           |
 | L2      | 23.08.24 | [Instructions]  | Oyvind | Chapter 1 & 2.1-2.10        |
 | L3      | 26.08.24 | Instructions continued                                                                                                                            | Oyvind | Chapter 2.11-2.23           |
 | L4      | 02.09.24 | Logic design                                                                                                                                      | Vi        | Appendix B                  |
 | L5      | 09.09.24 | [Arithmetic for computers & floating point] | Oyvind | Chapter 3.1-3.11            |
-| P2      | 16.09.24 | [Precepts 2]                               | Oyvind | -                           |
+| P2      | 09.09.24 | [Precepts 2]                               | Oyvind | -                           |
 | L6      | 16.09.24 | [Processor]                                         | Oyvind | Chapter 4.1-4.4, 4.6-4.7    |
 | L7      | 20.09.24 | Processor continued                                                                                                                               | Oyvind | Chapter 4.8-4.13, 4.15-4.17 |
 | P3      | 23.09.24 | Memory Hierarchy 1                                                                                                                                | Vi        | -                           |
@@ -56,8 +56,8 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Project                   | Start           | Due             |
 | ------------------------- | --------------- | --------------- |
-| Micobenchmark in assembly | 23.08.24, 10:15 | 16.09.24. 12:00 |
-| MIPS Simulator            | 16.09.24, 12:15 | 07.10.24, 12:00 |
+| Micobenchmark in assembly | 19.08.24, 12:15 | 09.09.24. 12:00 |
+| MIPS Simulator            | 09.09.24, 12:15 | 07.10.24, 12:00 |
 | Cache simulator           | 07.10.24, 12:15 | 04.11.24, 12:00 |
 
 You will receive a GitHub Classroom link to each assignment per email. 

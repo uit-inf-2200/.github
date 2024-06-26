@@ -13,7 +13,7 @@ The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timepl
 **Staff:**
 * Vi Ngoc-Nha Tran (VNNT) <vi.tran@uit.no> (Lecturer, Course responsible)
 * Hoai Phuong Ha (PHH) <phuong.hoai.ha@uit.no> (Lecturer)
-* Øyvind Arne Moen Nohr (OAMN) <oyvind.a.nohr@uit.no> (Lecturer)
+* Øyvind Arne Moen Nohr (ØAMN) <oyvind.a.nohr@uit.no> (Lecturer)
 * (Teaching assistant) Room 
 * (Teaching assistant) Room
 * (Teaching assistant) Room
@@ -33,24 +33,24 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 * All lecture slides
 * Mandatory assignments
 
-| Lecture | Date     | Subject                                                                                                                                           | Lecturer  | Readings                    |
-| ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| L1      | 19.08.24 | [Introduction]                              | VNNT | Chapter 1                           | 
-| P1      | 19.08.24 | [Precepts 1]                               | VNNT | -                           |
-| L2      | 23.08.24 | [Instructions]  | Oyvind |  2.1-2.10        |
-| L3      | 26.08.24 | Instructions continued                                                                                                                            | OAMN | Chapter 2.11-2.23           |
-| L4      | 02.09.24 | Logic design                                                                                                                                      | VNNT        | Appendix B                  |
-| L5      | 09.09.24 | [Arithmetic for computers & floating point] | OAMN | Chapter 3.1-3.11            |
-| P2      | 09.09.24 | [Precepts 2]                               | OAMN | -                           |
-| L6      | 16.09.24 | [Processor]                                         | OAMN | Chapter 4.1-4.4, 4.6-4.7    |
-| L7      | 20.09.24 | Processor continued                                                                                                                               | OAMN | Chapter 4.8-4.13, 4.15-4.17 |
-| P3      | 23.09.24 | Memory Hierarchy 1                                                                                                                                | VNNT        | -                           |
-| L8      | 07.10.24 | Memory Hierarchy 2                                                                                                                                | VNNT        | Chapter 5                   |
-| L9      | 07.10.24 | Precepts 3                                                                                                                                        | VNNT        | Chapter 5                   |
-| L10     | 21.10.24 | Parallel Processors                                                                                                                               | VNNT        | Chapter 6                   |
-| L11     | 28.10.24 | GPUs                                                                                                                                              | PHH        | Appendix C                  |
-| L12     | 01.11.24 | Energy-efficient computing - VPUs                                                                                                                 | PHH         | Slides                  |
-| Exam    | 27.11.24 | School exam                                                                                                                                       | -         | Everything                  |
+| Lecture | Date     | Subject                                     | Lecturer | Readings                    |
+| ------- | -------- | ------------------------------------------- | -------- | --------------------------- |
+| L1      | 19.08.24 | [Introduction]                              | VNNT     | Chapter 1                   |
+| P1      | 19.08.24 | [Precepts 1]                                | VNNT     | -                           |
+| L2      | 23.08.24 | [Instructions]                              | ØAMN     | 2.1-2.10                    |
+| L3      | 26.08.24 | Instructions continued                      | ØAMN     | Chapter 2.11-2.23           |
+| L4      | 02.09.24 | Logic design                                | VNNT     | Appendix B                  |
+| L5      | 09.09.24 | [Arithmetic for computers & floating point] | ØAMN     | Chapter 3.1-3.11            |
+| P2      | 09.09.24 | [Precepts 2]                                | ØAMN     | -                           |
+| L6      | 16.09.24 | [Processor]                                 | ØAMN     | Chapter 4.1-4.4, 4.6-4.7    |
+| L7      | 20.09.24 | Processor continued                         | ØAMN     | Chapter 4.8-4.13, 4.15-4.17 |
+| P3      | 23.09.24 | Memory Hierarchy 1                          | VNNT     | -                           |
+| L8      | 07.10.24 | Memory Hierarchy 2                          | VNNT     | Chapter 5                   |
+| L9      | 07.10.24 | Precepts 3                                  | VNNT     | Chapter 5                   |
+| L10     | 21.10.24 | Parallel Processors                         | VNNT     | Chapter 6                   |
+| L11     | 28.10.24 | GPUs                                        | PHH      | Appendix C                  |
+| L12     | 01.11.24 | Energy-efficient computing - VPUs           | PHH      | Slides                      |
+| Exam    | 27.11.24 | School exam                                 | -        | Everything                  |
 
 ## Mandatory assignments
 

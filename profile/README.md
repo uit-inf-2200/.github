@@ -35,14 +35,14 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Lecture | Date     | Subject                                                                                                                                           | Lecturer  | Readings                    |
 | ------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| L1      | 19.08.24 | [Introduction](https://docs.google.com/presentation/d/1P42TATl1fnBE5vvUFk6Cu8ynnlmhNhiaYv3bjFjNBEU/edit#slide=id.p1)                              | Vi | -                           |
-| P1      | 19.08.24 | [Precepts 1](https://docs.google.com/presentation/d/1T6AUhG6n-Mjw350jJF--T97camFHch9Lccr-5Sib7Qw/edit#slide=id.p1)                                | Vi | -                           |
-| L2      | 23.08.24 | Introduction continued & [Instructions](https://docs.google.com/presentation/d/1kmcQsf-HKe05rcu1FJxWXarVW3p8xRZTcQn9NXJQWKE/edit#slide=id.p1)     | Oyvind | Chapter 1 & 2.1-2.10        |
+| L1      | 19.08.24 | [Introduction]                              | Vi | -                           | Chapter 1
+| P1      | 23.08.24 | [Precepts 1]                               | Vi | -                           |
+| L2      | 23.08.24 | [Instructions]  | Oyvind | Chapter 1 & 2.1-2.10        |
 | L3      | 26.08.24 | Instructions continued                                                                                                                            | Oyvind | Chapter 2.11-2.23           |
 | L4      | 02.09.24 | Logic design                                                                                                                                      | Vi        | Appendix B                  |
-| L5      | 09.09.24 | [Arithmetic for computers & floating point](https://docs.google.com/presentation/d/1eo-mdT8Go4qPhTj-mt8Mfg0Ar9kuwy-hfoCnMTT2O6U/edit#slide=id.p1) | Oyvind | Chapter 3.1-3.11            |
-| P2      | 09.09.24 | [Precepts 2](https://docs.google.com/presentation/d/1HVEcJrchEgUBM6RrPTuOwDxNlCS_mYfSztFS-4LNkfg/edit#slide=id.p1)                                | Oyvind | -                           |
-| L6      | 16.09.24 | [Processor](https://docs.google.com/presentation/d/1oDiF5tN8I2bOCf79YcKom_Ln5ausxB6BPmSwBYbm5Z8/edit)                                             | Oyvind | Chapter 4.1-4.4, 4.6-4.7    |
+| L5      | 09.09.24 | [Arithmetic for computers & floating point] | Oyvind | Chapter 3.1-3.11            |
+| P2      | 16.09.24 | [Precepts 2]                               | Oyvind | -                           |
+| L6      | 16.09.24 | [Processor]                                         | Oyvind | Chapter 4.1-4.4, 4.6-4.7    |
 | L7      | 20.09.24 | Processor continued                                                                                                                               | Oyvind | Chapter 4.8-4.13, 4.15-4.17 |
 | P3      | 23.09.24 | Memory Hierarchy 1                                                                                                                                | Vi        | -                           |
 | L8      | 07.10.24 | Memory Hierarchy 2                                                                                                                                | Vi        | Chapter 5                   |
@@ -56,8 +56,8 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Project                   | Start           | Due             |
 | ------------------------- | --------------- | --------------- |
-| Micobenchmark in assembly | 19.08.24, 13:15 | 09.09.24. 12:00 |
-| MIPS Simulator            | 09.09.24, 10:15 | 07.10.24, 12:00 |
+| Micobenchmark in assembly | 23.08.24, 10:15 | 16.09.24. 12:00 |
+| MIPS Simulator            | 16.09.24, 12:15 | 07.10.24, 12:00 |
 | Cache simulator           | 07.10.24, 10:15 | 04.11.24, 12:00 |
 
 You will receive a GitHub Classroom link to each assignment per email. 

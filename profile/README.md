@@ -58,7 +58,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | ------------------------- | --------------- | --------------- |
 | Micobenchmark in assembly | 23.08.24, 10:15 | 16.09.24. 12:00 |
 | MIPS Simulator            | 16.09.24, 12:15 | 07.10.24, 12:00 |
-| Cache simulator           | 07.10.24, 10:15 | 04.11.24, 12:00 |
+| Cache simulator           | 07.10.24, 12:15 | 04.11.24, 12:00 |
 
 You will receive a GitHub Classroom link to each assignment per email. 
 

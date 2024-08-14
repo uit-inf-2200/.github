@@ -1,0 +1,7 @@
+group:
+  - files:
+    - source: profile/README.md
+    - dest: index.md
+
+  repos: |
+    uit-inf-2200/uit-inf-2200.github.io

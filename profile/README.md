@@ -33,12 +33,12 @@ You can read more about plagiarism and cheating on: [https://en.uit.no/regelverk
 | Lecture | Date     | Subject                                     | Lecturer | Readings                    |
 | ------- | -------- | ------------------------------------------- | -------- | --------------------------- |
 | L1      | Fri. 15.08.25 | Introduction | Lars Ailo | None |
-| P1      | Mon. 18.08.25 | Project 1 precepts | Vi |  |
-| L2      |  |  |  |  |
-| L3      |  |  |  |  |
-| L4      |  |  |  |  |
-| L5      |  |  |  |  |
-| P2      |  |  |  |  |
+| P1      | Mon. 18.08.25 | Project 1 precepts | Vi | None |
+| L2      | Fri. 22.08.25 | Computer abstractions | Lars Ailo  | Chapter 1 |
+| L3      | Mon. 25.08.25 | Instructions 1 | Lars Ailo | 2.1 - 2.10 |
+| L4      | Wed. 27.08.25 | Quantum computing | Nikita Shvetsov  | None |
+| L5      | Fri. 29.08.25 | Instructions 2 | Lars Ailo | 2.11 - 2.23 |
+| P2      | Mon.  |  |  |  |
 | L6      |  |  |  |  |
 | L7      |  |  |  |  |
 | P3      |  |  |  |  |
@@ -47,19 +47,16 @@ You can read more about plagiarism and cheating on: [https://en.uit.no/regelverk
 | L10     |  |  |  |  |
 | L11     |  |  |  |  |
 | L12     |  |  |  |  |
-| Exam    |  |  |  |  |
+| Exam    | 05.12.25 | - | - | Everything |
 
 ## Mandatory assignments
 
-| Project                   | Start           | Due             |
-| ------------------------- | --------------- | --------------- |
-| Micobenchmark in assembly |  |  |
-| MIPS Simulator            |  |  |
-| Cache simulator           |  |  |
+| Project                   | Start            | Design review         | Due             |
+| ------------------------- | ---------------- | --------------------- | --------------- |
+| Micobenchmark in assembly |  18.08.25, 12:15 | 27.08.25 and 29.08.25 | 15.09.25, 12:00 |
+| MIPS Simulator            |  15.09.25, 12:15 | 24.09.25 and 26.09.25 | 13.10.25, 12:00 |
+| Cache simulator           |  13.10.25, 12.15 | 22.10.25 and 24.10.25 | 10.11.25, 12:00 |
 
 You will receive a GitHub Classroom link to each assignment per email. 
 
-## Exercises
-
-  1. TBA
 

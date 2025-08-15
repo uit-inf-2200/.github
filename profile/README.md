@@ -12,7 +12,7 @@ The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timepl
 
 **Staff:**
 * Lars Ailo Bongo, course responsible <lars.ailo.bongo@uit.no>.
-* Vi Tran, lecturer.
+* Vi Ngoc-Nha Tran, lecturer.
 * Antoine Omond​, TA.
 * Eindride Kjersheim, TA.
 * Gabriel Johansen, TA.
@@ -44,10 +44,10 @@ You can read more about plagiarism and cheating on: [https://en.uit.no/regelverk
 | L8      | Fri. 26.09.25 | Processor 1 | Lars Ailo | 4.1 - 4.4, 4.6, 4.7 |
 | L9      | Mon. 29.09.25 | Processor 2 | Lars Ailo | 4.8 - 4.13, 4.15 - 4.17 |
 | P3      | Mon. 13.10.25 | Project 3 precepts | Vi | None |
-| L10     | - | Memory Hierarchy 1 | Vi | Chapter 5 |
-| L11     | - | Memory Hierarchy 2 | Vi | Chapter 5 |
-| L12     | - | Parallel Processors | Vi | Chapter 6 |
-| L13    | - | GPUs | Vi | Appendix C |
+| L10     | Mon. 13.10.25 | Memory Hierarchy 1 | Vi | Chapter 5 |
+| L11     | Mon. 20.10.25 | Memory Hierarchy 2 | Vi | Chapter 5 |
+| L12     | Mon. 27.10.25 | Parallel Processors | Vi | Chapter 6 |
+| L13     | Mon. 03.11.25 | GPUs | Vi | Appendix C |
 | L14    | - | Guest lecture 2 | ? | TBA |
 | L14    | - | Guest lecture 3 | ? | TBA |
 | Exam    | 05.12.25 | - | - | Everything |
